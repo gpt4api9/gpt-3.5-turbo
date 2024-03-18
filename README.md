@@ -1,4 +1,4 @@
-# gpt3-turbo
+# gpt-3.5-turbo
 
 免费注册用户，支持每天免费调用1万次gpt-3.5-turbo模型。
 
