@@ -7,7 +7,7 @@
 
 - 访问官网注册用户[https://gpt4api.shop/](https://gpt4api.shop/)
 - 获取私有控制台密钥。
-
+- 调用对话示例
 ```shell
 POST https://g3.gpt4api.plus/backend-api/conversation
 Content-Type: application/json
@@ -25,4 +25,12 @@ Authorization:  <控制台秘钥>
     }
   ]
 }
+```
+
+- 获取池子
+
+```shell
+GEThttps://g3.gpt4api.plus/backend-api/namespace
+Content-Type: application/json
+Authorization:  <控制台秘钥>
 ```
